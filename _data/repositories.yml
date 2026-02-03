@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - rashidkhan-python
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - rashidkhan-python/portfolio
+  - rashidkhan-python/VoxSentiment
+  - rashidkhan-python/speech-to-text-sentiment-analysis
+  - rashidkhan-python/geospatial-dashboard
+  - rashidkhan-python/austin-airbnb-analysis
+  - rashidkhan-python/comp634-cnn-heritage-classification
+  - rashidkhan-python/ml-projects
