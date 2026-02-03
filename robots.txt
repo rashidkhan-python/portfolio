@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://rashidkhan-python.github.io/portfolio/sitemap.xml
